@@ -11,7 +11,7 @@ print(word)
 
 guess = input("please enter a single letter ")
 
-if len(guess) == 1:
+if len(guess) == 1 and guess.isalpha():
     print(" Good guess!")
 
 else:
