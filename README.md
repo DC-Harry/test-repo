@@ -1,7 +1,7 @@
 # Hangman Project
-##Contents
-###Description
-###Aims
-###Outcomes
-###Instructions
-###File Structure
+## Contents
+### Description
+### Aims
+### Outcomes
+### Instructions
+### File Structure
